@@ -1,8 +1,8 @@
 export const LEADERS = [
     {
       id: 0,
-      name: 'Ghazanfar Hassan Mirza',
-      image: '/assets/images/ghazanfar.jpg',
+      name: 'Sarmad khan ',
+      image: '/assets/images/Sarmad.jpg',
       designation: 'Chief Executive Officer',
       abbr: 'CEO',
       featured: false,
@@ -19,8 +19,8 @@ export const LEADERS = [
     },
     {
       id: 2,
-      name: 'Waseem Mr',
-      image: '/assets/images/waseem.jpg',
+      name: 'Saad khan',
+      image: '/assets/images/saad.jpg',
       designation: 'Chief Taste Officer',
       abbr: 'CTO',
         featured: false,
@@ -28,11 +28,11 @@ export const LEADERS = [
     },
     {
       id: 3,
-      name: 'Waseem Ch',
-      image: '/assets/images/chef.jpeg',
-      designation: 'Executive Chef',
+      name: 'Pizza',
+      image: '/assets/images/pizza1.jpg',
+      designation: '',
       abbr: 'EC',
       featured: true,
-      description: 'Award winning three-star Shahmeer chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!'
+      description: 'Atomic sauce with stuffed crust. cheddar cheese with olives and onions'
     }
   ];

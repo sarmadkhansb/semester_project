@@ -73,8 +73,8 @@ class Header extends Component {
             <NavbarBrand className="mr-auto" href="/">
               <img
                 src="assets/images/logo.jpeg"
-                height="30"
-                width="41"
+                height="42"
+                width="55"
                 alt="Taste Cafe"
               />
             </NavbarBrand>
@@ -127,7 +127,7 @@ class Header extends Component {
           <div className="container">
             <div className="row row-header">
               <div className="col-12 col-sm-6">
-                <h1>Beanery</h1>
+                <h1>Roti valay</h1>
                 <p>
                   We take inspiration from the World's best cuisines, and create
                   a unique fusion experience. Our lipsmacking creations will

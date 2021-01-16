@@ -155,24 +155,21 @@ class Contact extends Component {
           <div className="col-12 col-sm-4 offset-sm-1">
             <h5>Our Address</h5>
             <address>
-              13, Mian Plaza
+              87, H2
               <br />
-              Johar Town, Lahore
+              Wapda Town, Lahore
               <br />
               Pakistan
               <br />
-              <i className="fa fa-phone"></i>: +92 320 8777705
+              <i className="fa fa-phone"></i>: +92 332 1664645
               <br />
-              <i className="fa fa-fax"></i>: +92 321 8777706
+              <i className="fa fa-fax"></i>: +92 335 7556941
               <br />
               <i className="fa fa-envelope"></i>:{" "}
-              <a href="mailto:customerservice@beanery.net">
-                customerservice@beanery.net
+              <a href="mailto:customerservice@RotiValay.net">
+                customerservice@RotiValay.net
               </a>
             </address>
-          </div>
-          <div className="col-12 col-sm-6 offset-sm-1">
-            <h5>Map of our Location</h5>
           </div>
           <div className="col-12 col-sm-11 offset-sm-1">
             <div className="btn-group" role="group">

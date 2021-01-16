@@ -21,10 +21,10 @@ function Footer(props) {
 		              13, Mian Plaza<br />
 		              Johar Town, Lahore<br />
 		              Pakistan<br />
-		              <i className="fa fa-phone fa-lg"></i>: +92 320 8777705<br />
-		              <i className="fa fa-fax fa-lg"></i>:   +92 321 8777706<br />
+		              <i className="fa fa-phone fa-lg"></i>: +92 332 1664645<br />
+		              <i className="fa fa-fax fa-lg"></i>:   +92 321 5339698<br />
 		              <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:customerservice@tastecafe.net">
-                         ccustomerservice@tastecafe.net</a>
+                      customerservice@RotiValay.net</a>
                     </address>
                 </div>
                 <div className="col-12 col-sm-4 align-self-center">
@@ -40,7 +40,7 @@ function Footer(props) {
             </div>
             <div className="row justify-content-center">
                 <div className="col-auto">
-                    <p>© Copyright 2010 Beanery</p>
+                    <p>© Copyright 2020 Roti Valay</p>
                 </div>
             </div>
         </div>

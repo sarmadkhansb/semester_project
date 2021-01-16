@@ -10,6 +10,10 @@
     min-height:400px;
 }
 
+.flex{
+    display: flex;
+}
+
 .footer{
     background-color: #1f494b;
     margin:0px auto;
@@ -43,9 +47,46 @@ address{
     width:41;
 }
 
-img {
+/* img {
     vertical-align: middle;
     border-style: none;
     width: 100px;
     height: 110px;
+} */
+
+
+.card {
+    flex: 1;
+    width: 25rem;
+    margin-top: 10px;
+}
+
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253) !important;
+}
+
+.card-body{
+    padding: 3rem 0 !important;
+}
+
+.card-text{
+    font-size: .9rem;
+    padding: 0.4rem 1.9rem;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+.container-fluid .row{
+    padding: 3rem;
+}
+
+.card-img-top{
+    transform: scale(1);  
+    transition: transform 0.5s ease;
+}
+
+.card-img-top:hover{
+    transform: scale(0.8);
 }
