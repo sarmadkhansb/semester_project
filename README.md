@@ -1,5 +1,6 @@
 # semester_project
 Welcome to Roti Valay. please read details carefully before running project
+IMAGES OF INTERFACE ARE ALSO ATTACHED
 ======================
 commands for server side:
 npm install i
