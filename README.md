@@ -1,5 +1,16 @@
 # semester_project
+Welcome to Roti Valay. please read details carefully before running project
+======================
+commands for server side:
+npm install i
+node app.js
+======================
+npm install i
+npm start
+======================
 
+
+====================================================================================================================================
 it is important to create user in mongo db compass with following attributes to login menu. otherwise user cannot login in to the menu
 
 {
@@ -29,11 +40,3 @@ It is important to add hardcode details of one item in the mongo db compass with
 }
 (An image is also attached for better understanding)
 
-======================
-commands for server side:
-npm install i
-node app.js
-======================
-npm install i
-npm start
-======================
